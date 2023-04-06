@@ -11,3 +11,5 @@ Tecnologias usadas:
     • Geoserver
     • OpenLayers
     • Node.js
+    
+O frontend pode ser encontrado em: https://github.com/giuliannamoretti/frontend
